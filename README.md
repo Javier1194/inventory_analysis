@@ -145,10 +145,10 @@ Load the CSV files into PostgreSQL or SQLite, run `sql/01_create_tables.sql` fir
 
 ## 👤 About
 
-**Javier [Apellido]**
+**Javier Ardaya**
 Industrial Engineer | Supply Chain → Data Analytics
 📍 Santa Cruz de la Sierra, Bolivia
-🔗 [LinkedIn](https://linkedin.com/in/tu-perfil)
+🔗 [LinkedIn](https://linkedin.com/in/javier-ardaya11)
 🌐 English C1 · Spanish native
 
 > Background in warehouse management and inventory control (SOSUCRO). Currently building data analytics skills: SQL, Power BI, Python, Excel.
