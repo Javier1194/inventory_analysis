@@ -1,0 +1,21 @@
+product_id,product_name,category,total_stock,total_value,avg_daily_sales,days_on_hand,turnover_ratio,stock_status,abc
+PRD-001,Aceite de motor 10W-40 1L,Lubricantes,310,3875.0,0.5754189944134078,538.7,0.33,EXCESO,B
+PRD-002,Filtro de aire tipo A,Filtros,507,4208.1,0.7262569832402235,698.1,0.26,EXCESO,B
+PRD-003,Correa de distribución K-Series,Repuestos,177,3894.0,0.8044692737430168,220.0,0.81,EXCESO,A
+PRD-004,Grasa industrial multipropósito,Lubricantes,124,719.2,0.776536312849162,159.7,1.12,EXCESO,C
+PRD-005,Filtro de aceite universal,Filtros,76,494.0,0.7039106145251397,108.0,1.66,EXCESO,C
+PRD-006,Bujía NGK estándar,Eléctrico,313,1001.6000000000001,0.6089385474860335,514.0,0.35,EXCESO,C
+PRD-007,Batería 12V 60Ah,Eléctrico,103,9785.0,0.49162011173184356,209.5,0.85,EXCESO,A
+PRD-008,Líquido de frenos DOT4 500ml,Fluidos,172,1272.8,0.5698324022346368,301.8,0.59,EXCESO,C
+PRD-009,Refrigerante anticongelante 4L,Fluidos,113,1604.6,0.6368715083798883,177.4,1.01,EXCESO,B
+PRD-010,Pastillas de freno delantera,Repuestos,221,6188.0,0.5977653631284916,369.7,0.48,EXCESO,A
+PRD-011,Amortiguador delantero,Repuestos,174,11310.0,0.770949720670391,225.7,0.79,EXCESO,A
+PRD-012,Cable de bujía 4 piezas,Eléctrico,102,1887.0,0.7318435754189944,139.4,1.28,EXCESO,A
+PRD-013,Termostato de motor,Repuestos,191,2292.0,0.7262569832402235,263.0,0.68,EXCESO,B
+PRD-014,Bomba de agua completa,Repuestos,469,21105.0,0.8491620111731844,552.3,0.32,EXCESO,A
+PRD-015,Aceite de transmisión 75W-90,Lubricantes,39,655.2,0.7988826815642458,48.8,3.67,NORMAL,B
+PRD-016,Disco de freno ventilado,Repuestos,117,6435.0,0.7486033519553073,156.3,1.15,EXCESO,A
+PRD-017,Sensor de oxígeno lambda,Eléctrico,68,2584.0,0.7486033519553073,90.8,1.97,EXCESO,A
+PRD-018,Manguera de radiador superior,Repuestos,110,1045.0,0.9329608938547486,117.9,1.52,EXCESO,B
+PRD-019,Rodamiento de rueda delantera,Repuestos,242,7744.0,0.7653631284916201,316.2,0.57,EXCESO,A
+PRD-020,Limpia parabrisas 600mm,Accesorios,355,2130.0,0.7318435754189944,485.1,0.37,EXCESO,C

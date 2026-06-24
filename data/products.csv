@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_cost,unit_measure,reorder_point,max_stock
+PRD-001,Aceite de motor 10W-40 1L,Lubricantes,12.5,litro,48,240
+PRD-002,Filtro de aire tipo A,Filtros,8.3,unidad,38,266
+PRD-003,Correa de distribución K-Series,Repuestos,22.0,unidad,24,168
+PRD-004,Grasa industrial multipropósito,Lubricantes,5.8,kg,17,68
+PRD-005,Filtro de aceite universal,Filtros,6.5,unidad,30,120
+PRD-006,Bujía NGK estándar,Eléctrico,3.2,unidad,48,336
+PRD-007,Batería 12V 60Ah,Eléctrico,95.0,unidad,28,140
+PRD-008,Líquido de frenos DOT4 500ml,Fluidos,7.4,litro,32,160
+PRD-009,Refrigerante anticongelante 4L,Fluidos,14.2,litro,20,80
+PRD-010,Pastillas de freno delantera,Repuestos,28.0,par,20,140
+PRD-011,Amortiguador delantero,Repuestos,65.0,unidad,33,132
+PRD-012,Cable de bujía 4 piezas,Eléctrico,18.5,set,45,180
+PRD-013,Termostato de motor,Repuestos,12.0,unidad,49,294
+PRD-014,Bomba de agua completa,Repuestos,45.0,unidad,33,198
+PRD-015,Aceite de transmisión 75W-90,Lubricantes,16.8,litro,12,72
+PRD-016,Disco de freno ventilado,Repuestos,55.0,unidad,31,155
+PRD-017,Sensor de oxígeno lambda,Eléctrico,38.0,unidad,11,77
+PRD-018,Manguera de radiador superior,Repuestos,9.5,unidad,33,231
+PRD-019,Rodamiento de rueda delantera,Repuestos,32.0,unidad,39,273
+PRD-020,Limpia parabrisas 600mm,Accesorios,6.0,unidad,47,329
